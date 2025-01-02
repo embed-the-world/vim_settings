@@ -1,7 +1,6 @@
-require "henry.options"
-require "henry.keymaps"
-require "henry.plugins"
-require "henry.colorscheme"
-require "henry.cmp"
-require "henry.lsp"
-
+require("setting1.options")
+require("setting1.keymaps")
+require("setting1.plugins")
+require("setting1.colorscheme")
+require("setting1.cmp")
+require("setting1.lsp")
